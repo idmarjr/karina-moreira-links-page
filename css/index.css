@@ -178,7 +178,7 @@
 	z-index: -1;
 	border-radius: 50px;
 	background: linear-gradient(#05a33f, #25d366);
-	transition: opacity 0.5s linear;
+	transition: opacity 0.2s linear;
 }
 
 .book-appointment:hover {
