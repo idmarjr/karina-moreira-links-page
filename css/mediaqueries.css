@@ -1,0 +1,35 @@
+/* ************************************************************************** */
+/* @media > 640 */
+/* ************************************************************************** */
+@media (min-width: 641px) {
+	
+	.mainHeader .name {
+		font-size: 9.2em;
+	}
+
+	.mainHeader .speciallity {
+		font-size: 3.2em;
+	}
+
+	.product-links li {
+		max-width: calc(50% - 2rem );
+	}
+}
+
+/* ************************************************************************** */
+/* @media > 800 */
+/* ************************************************************************** */
+@media (min-width: 801px) {
+
+	.mainHeader .name {
+		font-size: 12.2em;
+	}
+
+	.mainHeader .headshot {
+		width: 300px;
+	}
+
+	.product-links li {
+		max-width: calc(33.333% - 2rem);
+	}
+}
